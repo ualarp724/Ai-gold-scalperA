@@ -1,0 +1,7 @@
+2025-11-10 23:57:55,240 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - INFO - Startup order: ['system_analyzer', 'model_registry', 'data_processor', 'regime_detector', 'strategy_generator', 'ai_server', 'model_trainer', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - ERROR - Component script not found: G:\My Drive\AI_Gold_Scalper/scripts/analysis/current_system_analyzer.py
+2025-11-10 23:58:37,594 - EnhancedOrchestrator - ERROR - Component script not found: G:\My Drive\AI_Gold_Scalper/scripts/ai/model_registry.py

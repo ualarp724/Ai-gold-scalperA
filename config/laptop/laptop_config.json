@@ -1,0 +1,28 @@
+{
+  "hardware": {
+    "gpu": null,
+    "gpu_memory_gb": 0,
+    "cpu": "Apple/Intel CPU",
+    "cpu_cores": 6,
+    "cpu_threads": 12,
+    "ram_gb": 15
+  },
+  "tensorflow": {
+    "gpu_memory_limit_mb": 0,
+    "mixed_precision": false,
+    "xla_acceleration": false,
+    "inter_op_threads": 6,
+    "intra_op_threads": 12
+  },
+  "trading": {
+    "max_concurrent_models": 3,
+    "max_concurrent_requests": 2,
+    "ai_request_timeout_ms": 10000,
+    "memory_conservation": true
+  },
+  "schedule": {
+    "model_training": "22:00",
+    "system_backup": "02:00",
+    "system_cleanup": "03:00"
+  }
+}
