@@ -1,0 +1,6 @@
+# Archivos específicos de macOS a ignorar
+.DS_Store
+
+# Archivos comunes a ignorar si no quieres subirlos
+# .env
+# __pycache__/
