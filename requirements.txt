@@ -1,0 +1,113 @@
+# ================================
+# AI Gold Scalper - Enterprise Requirements
+# Version: 6.1.1 (Production Ready) - FINAL para PYTHON 3.11 (Conda/Pip Híbrido)
+# Last Updated: 2025-11-11
+# NOTA: Los paquetes binarios (TA-Lib, NumPy, Numba) DEBEN instalarse primero
+# con 'conda install -c conda-forge ...' y luego COMENTARSE aquí.
+# ================================
+
+# Core Web Framework & API
+flask==2.3.3
+flask-cors==4.0.0
+flask-caching==2.0.2
+flask-login==0.6.3
+flask-socketio==5.3.6
+werkzeug==3.0.1
+requests==2.31.0
+aiohttp==3.9.0
+waitress==3.0.0
+
+# AI & Machine Learning - Core
+### COMENTADO: Instalado via Conda para compatibilidad binaria con TA-Lib.
+# numpy==1.26.4 
+pandas==2.1.4
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# AI & Machine Learning - Advanced
+xgboost==2.0.2
+catboost==1.2.5
+lightgbm==4.3.0
+torch==2.1.2
+tensorflow==2.15.0
+optuna==3.4.0
+
+# GPT Integration
+openai==1.3.7
+tiktoken==0.5.2
+
+# Data Processing & Analysis
+scipy==1.11.4
+statsmodels==0.14.1
+### COMENTADO: Instalado via Conda para compatibilidad binaria.
+# numba==0.58.1 
+### COMENTADO: Instalado via Conda (resolviendo el error de compilación).
+# TA-Lib==0.4.29 
+yfinance==0.2.32
+
+# Database & Storage
+sqlalchemy==2.0.23
+alembic==1.13.1
+
+# Visualization & Dashboard
+plotly==5.18.0
+dash==2.17.0
+seaborn==0.13.0
+matplotlib==3.8.2
+
+# System Monitoring & Logging
+psutil==5.9.6
+logging-config==1.0.3
+coloredlogs==15.0.1
+rich==13.7.0
+
+# Configuration & Environment
+python-dotenv==1.0.0
+click==8.1.7
+pyaml==24.7.0 # Corregido de 24.1.0 (versión inexistente).
+configparser==5.3.0
+
+# Security & Encryption
+cryptography==41.0.7
+
+# Network & Communication
+urllib3==2.1.0
+websocket-client==1.7.0
+
+# Date & Time
+pytz==2023.3.0
+python-dateutil==2.8.2 # Corregido de 'dateutil' a 'python-dateutil'.
+
+# Development & Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.23.2
+black==23.12.0
+flake8==7.0.0
+mypy==1.7.1
+
+# Performance & Optimization
+memory-profiler==0.61.0
+line-profiler==4.1.1
+
+# Utilities
+tqdm==4.66.1
+tabulate==0.9.0
+colorama==0.4.6
+schedule==1.2.1
+
+# ================================
+# Optional: Production Deployment
+# ================================
+# gunicorn==21.2.0  # For production WSGI server
+# nginx  # Reverse proxy (system package)
+# supervisor  # Process manager (system package)
+# docker  # Containerization (system package)
+
+# ================================
+# Development Notes
+# ================================
+# Instalación final:
+# 1. conda activate ai_gold_scalper_conda
+# 2. cd /ruta/a/tu/proyecto
+# 3. pip install -r requirements.txt

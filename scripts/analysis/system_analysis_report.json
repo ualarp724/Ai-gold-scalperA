@@ -1,0 +1,243 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-11-12T20:38:28.324895",
+    "analyzer_version": "1.0.0",
+    "analysis_type": "baseline_system_assessment"
+  },
+  "system_analysis": {
+    "server_code": {
+      "status": "ERROR",
+      "error": "Server file not found"
+    },
+    "configuration": {
+      "config_files_found": [
+        "config.json"
+      ],
+      "config_status": {
+        "config.json": {
+          "status": "VALID",
+          "keys": [
+            "ai",
+            "deployment_type",
+            "server",
+            "selected_components",
+            "performance",
+            "component_settings"
+          ],
+          "size_kb": 1.416015625
+        }
+      },
+      "missing_configs": [
+        "OpenAI API Key",
+        "Trading Parameters",
+        "Risk Management Settings"
+      ]
+    },
+    "directory_structure": {
+      "root_files": [
+        ".DS_Store",
+        "requirements.txt",
+        "config.json",
+        "verify_cuda.ps1",
+        "README.md",
+        ".gitignore",
+        "CONVERSATION_SUMMARY_TRANSFER.md",
+        "PRE_LAUNCH_AUDIT.md",
+        "consolidated_ai_server.log"
+      ],
+      "directories": {
+        "documentation": {
+          "file_count": 27,
+          "subdirectories": []
+        },
+        "ai_gold_scalper_env": {
+          "file_count": 3228,
+          "subdirectories": [
+            "bin",
+            "include",
+            "lib"
+          ]
+        },
+        "ai_gold_s": {
+          "file_count": 1750,
+          "subdirectories": [
+            "bin",
+            "include",
+            "lib"
+          ]
+        },
+        "core": {
+          "file_count": 3,
+          "subdirectories": []
+        },
+        "config": {
+          "file_count": 7,
+          "subdirectories": [
+            "laptop"
+          ]
+        },
+        "setup": {
+          "file_count": 6,
+          "subdirectories": []
+        },
+        "utils": {
+          "file_count": 5,
+          "subdirectories": []
+        },
+        "models": {
+          "file_count": 6,
+          "subdirectories": [
+            "stored_models"
+          ]
+        },
+        "G:\\My Drive\\AI_Gold_Scalper": {
+          "file_count": 3,
+          "subdirectories": [
+            "logs"
+          ]
+        },
+        "dashboard": {
+          "file_count": 1,
+          "subdirectories": []
+        },
+        "results": {
+          "file_count": 11,
+          "subdirectories": []
+        },
+        "logs": {
+          "file_count": 58,
+          "subdirectories": [
+            "backtesting"
+          ]
+        },
+        "scripts": {
+          "file_count": 57,
+          "subdirectories": [
+            "research",
+            "backtesting",
+            "analysis",
+            "integration",
+            "training",
+            "ai",
+            "monitoring",
+            "data"
+          ]
+        },
+        "EA": {
+          "file_count": 1,
+          "subdirectories": []
+        },
+        "LightGBM": {
+          "file_count": 4818,
+          "subdirectories": [
+            "docker",
+            "swig",
+            ".ci",
+            "cmake",
+            "R-package",
+            "include",
+            "tests",
+            "python-package",
+            "docs",
+            "examples",
+            "external_libs",
+            ".github",
+            "build",
+            "windows",
+            ".git",
+            "src"
+          ]
+        },
+        "installer": {
+          "file_count": 1,
+          "subdirectories": []
+        },
+        "data": {
+          "file_count": 5,
+          "subdirectories": [
+            "historical"
+          ]
+        },
+        "deprecated": {
+          "file_count": 27,
+          "subdirectories": [
+            "tools",
+            "reports"
+          ]
+        }
+      },
+      "total_files": 10023,
+      "organization_score": 50
+    },
+    "model_dependencies": {
+      "model_directories": [
+        "models"
+      ],
+      "model_files": [],
+      "required_packages": [
+        "numpy: AVAILABLE",
+        "pandas: AVAILABLE",
+        "scikit-learn: MISSING",
+        "joblib: AVAILABLE",
+        "torch: AVAILABLE",
+        "flask: AVAILABLE",
+        "openai: AVAILABLE",
+        "aiohttp: AVAILABLE"
+      ],
+      "missing_dependencies": [
+        "scikit-learn"
+      ]
+    },
+    "trading_logic": {
+      "signal_sources": [],
+      "risk_management": {},
+      "signal_fusion_capability": false,
+      "performance_tracking": false,
+      "current_limitations": []
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "MEDIUM",
+      "category": "Configuration",
+      "action": "Complete configuration setup",
+      "description": "Add missing configurations: OpenAI API Key, Trading Parameters, Risk Management Settings"
+    },
+    {
+      "priority": "HIGH",
+      "category": "Dependencies",
+      "action": "Install missing ML dependencies",
+      "description": "Missing packages: scikit-learn"
+    }
+  ],
+  "baseline_metrics": {
+    "analysis_date": "2025-11-12T20:38:28.324874",
+    "system_version": "5.0.0-consolidated",
+    "code_complexity": {
+      "total_lines": 0,
+      "classes_count": 0,
+      "file_size_kb": 0
+    },
+    "feature_coverage": {
+      "signal_sources": 0,
+      "has_signal_fusion": false,
+      "has_performance_tracking": false
+    },
+    "organization_score": 50,
+    "total_files": 10023,
+    "recommendations_count": 2
+  },
+  "summary": {
+    "overall_health": "FAIR (40/100)",
+    "critical_issues": [
+      "Install missing ML dependencies"
+    ],
+    "next_steps": [
+      "Review the analysis report and prioritize recommendations",
+      "Address critical issues first (HIGH priority items)",
+      "Implement enhanced logging system for better performance tracking",
+      "Set up baseline performance monitoring",
+      "Create testing framework for signal accuracy validation"
+    ]
+  }
+}

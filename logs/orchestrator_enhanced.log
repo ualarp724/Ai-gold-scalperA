@@ -1,0 +1,1843 @@
+2025-11-11 00:02:25,186 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 00:02:25,186 - EnhancedOrchestrator - INFO - Deployment type: None
+2025-11-11 00:02:25,186 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 00:02:25,186 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'system_analyzer', 'data_processor', 'regime_detector', 'model_trainer', 'strategy_generator', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 00:02:25,186 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 00:02:25,188 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 26962)
+2025-11-11 00:02:25,188 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 00:02:25,189 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 26963)
+2025-11-11 00:02:25,189 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 00:02:25,190 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 26964)
+2025-11-11 00:02:25,190 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 00:02:25,191 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 00:02:28,196 - EnhancedOrchestrator - INFO - [OK] regime_detector started successfully (PID: 26965)
+2025-11-11 00:02:31,202 - EnhancedOrchestrator - WARNING - Dependency data_processor has stopped for model_trainer
+2025-11-11 00:02:31,202 - EnhancedOrchestrator - ERROR - Dependencies not met for model_trainer
+2025-11-11 00:02:31,203 - EnhancedOrchestrator - WARNING - Dependency data_processor has stopped for strategy_generator
+2025-11-11 00:02:31,203 - EnhancedOrchestrator - ERROR - Dependencies not met for strategy_generator
+2025-11-11 00:02:31,203 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 00:02:31,206 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 26967)
+2025-11-11 00:02:31,207 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 00:02:31,209 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 00:02:41,210 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 26968)
+2025-11-11 00:02:51,212 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 00:02:51,213 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 00:03:11,245 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 00:03:11,245 - EnhancedOrchestrator - WARNING - Dependency strategy_generator not running for advanced_backtester
+2025-11-11 00:03:11,245 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 00:03:11,245 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 00:03:11,246 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 00:03:16,255 - EnhancedOrchestrator - INFO - [OK] performance_dashboard started successfully (PID: 26973)
+2025-11-11 00:03:21,263 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 00:03:21,275 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 00:03:29,283 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 00:03:43,408 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 00:03:43,408 - EnhancedOrchestrator - INFO - Deployment type: None
+2025-11-11 00:03:43,408 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 00:03:43,409 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'system_analyzer', 'model_registry', 'regime_detector', 'ai_server', 'model_trainer', 'strategy_generator', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 00:03:43,409 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 00:03:43,411 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 26984)
+2025-11-11 00:03:43,411 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 00:03:43,412 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 26985)
+2025-11-11 00:03:43,412 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 00:03:43,413 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 26986)
+2025-11-11 00:03:43,413 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 00:03:43,414 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 00:03:46,420 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 00:03:46,420 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 26989)
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - WARNING - Dependency data_processor has stopped for model_trainer
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - ERROR - Dependencies not met for model_trainer
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - WARNING - Dependency data_processor has stopped for strategy_generator
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - ERROR - Dependencies not met for strategy_generator
+2025-11-11 00:03:46,425 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 00:03:46,435 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 00:03:56,437 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 26990)
+2025-11-11 00:04:06,443 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 00:04:06,447 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 00:04:26,449 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 00:04:26,450 - EnhancedOrchestrator - WARNING - Dependency strategy_generator not running for advanced_backtester
+2025-11-11 00:04:26,450 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 00:04:26,450 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-11 00:04:26,450 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-11 00:09:05,904 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 00:09:19,502 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 00:09:19,505 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 00:09:19,704 - BacktestingIntegration - ERROR - Failed to import backtesting system: No module named 'yfinance'
+2025-11-11 00:10:13,290 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 00:10:13,291 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 00:10:14,999 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 00:10:15,376 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:10:15,376 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:10:15,376 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:10:15,376 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:10:15,376 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 00:10:15,376 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 00:10:15,377 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 00:10:15,378 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 00:10:15,379 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 00:10:15,379 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 00:10:15,379 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 00:10:15,379 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 00:10:15,510 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 00:10:15,536 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 00:10:15,913 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 00:10:15,930 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_001015.json
+2025-11-11 00:10:15,930 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 02:50:51,329 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 02:50:51,330 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 02:50:51,331 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'system_analyzer', 'model_registry', 'regime_detector', 'strategy_generator', 'ai_server', 'model_trainer', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 02:50:51,331 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:50:51,335 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31079)
+2025-11-11 02:50:51,336 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 02:50:51,339 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 31080)
+2025-11-11 02:50:51,340 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 02:50:51,342 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 31081)
+2025-11-11 02:50:51,343 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 02:50:51,346 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 02:50:54,351 - EnhancedOrchestrator - INFO - [OK] regime_detector started successfully (PID: 31082)
+2025-11-11 02:50:57,353 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 02:50:57,357 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 31083)
+2025-11-11 02:50:57,357 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:50:57,359 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31084)
+2025-11-11 02:50:57,359 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 02:50:57,361 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 31085)
+2025-11-11 02:50:57,362 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 02:50:57,363 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 02:51:07,365 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 31086)
+2025-11-11 02:51:17,371 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 02:51:17,372 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 02:51:37,378 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 02:51:37,378 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 02:51:37,378 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 02:51:37,378 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 02:51:37,379 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 02:51:42,384 - EnhancedOrchestrator - ERROR - [ERROR] performance_dashboard failed to start
+2025-11-11 02:51:42,384 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:51:42,384 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:51:42,384 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:51:42,384 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:51:44,390 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31099)
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - WARNING - Component regime_detector health check failed
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - INFO - Auto-restarting regime_detector (policy: always)
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - INFO - Stopping component: regime_detector
+2025-11-11 02:51:44,391 - EnhancedOrchestrator - INFO - [OK] regime_detector stopped
+2025-11-11 02:51:46,396 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 02:51:46,397 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 02:51:49,402 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 02:51:49,403 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:51:49,409 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:51:49,409 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:51:49,409 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:51:49,412 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:51:51,418 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:51:51,425 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31103)
+2025-11-11 02:51:51,425 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:52:20,193 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:52:20,202 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:52:20,202 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:52:20,202 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:52:20,202 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 02:52:20,211 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 02:52:20,215 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 02:52:20,215 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 02:52:20,215 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 02:54:49,194 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 02:54:49,195 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 02:54:49,195 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'system_analyzer', 'model_registry', 'regime_detector', 'ai_server', 'model_trainer', 'strategy_generator', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 02:54:49,195 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:54:49,200 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31640)
+2025-11-11 02:54:49,200 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 02:54:49,204 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 31641)
+2025-11-11 02:54:49,204 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 02:54:49,207 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 31642)
+2025-11-11 02:54:49,207 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 02:54:49,210 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 02:54:52,216 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 02:54:52,217 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:54:52,222 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31646)
+2025-11-11 02:54:52,223 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 02:54:52,226 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 31647)
+2025-11-11 02:54:52,226 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 02:54:52,229 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 31648)
+2025-11-11 02:54:52,229 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 02:54:52,232 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 02:55:02,232 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 31649)
+2025-11-11 02:55:12,238 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 02:55:12,239 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 02:55:32,245 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 02:55:32,245 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 02:55:32,245 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 02:55:32,245 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 02:55:32,247 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 02:55:37,252 - EnhancedOrchestrator - ERROR - [ERROR] performance_dashboard failed to start
+2025-11-11 02:55:37,252 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:55:37,252 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:55:37,252 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:55:37,252 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:55:39,257 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:55:39,259 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31680)
+2025-11-11 02:55:39,259 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:55:39,265 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:55:39,265 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:55:39,265 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:55:39,274 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:55:41,279 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:55:41,280 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31681)
+2025-11-11 02:55:41,281 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:55:41,281 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:56:11,286 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:56:13,291 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:56:13,293 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31682)
+2025-11-11 02:56:13,295 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:56:13,295 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:56:13,295 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:56:13,304 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:56:15,309 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:56:15,313 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31683)
+2025-11-11 02:56:45,316 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:56:45,316 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:56:45,316 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:56:45,317 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:56:45,317 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:56:45,317 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:56:45,317 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:56:47,318 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:56:47,323 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31717)
+2025-11-11 02:56:47,339 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:56:47,339 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:56:47,339 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:56:47,347 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:56:49,352 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:56:49,354 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31718)
+2025-11-11 02:57:19,360 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:57:19,361 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:57:21,367 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:57:21,369 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31755)
+2025-11-11 02:57:21,371 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:57:21,371 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:57:21,371 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:57:21,390 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:57:23,391 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:57:23,392 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31757)
+2025-11-11 02:57:23,438 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:57:23,452 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:57:23,453 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:57:23,468 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:57:23,468 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 02:57:23,483 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 02:57:23,485 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 02:57:23,486 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 02:57:23,486 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 02:57:23,486 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 02:57:23,486 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 02:57:23,495 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 02:57:23,495 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 02:57:23,495 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 02:57:34,761 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 02:57:34,761 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 02:57:34,761 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'system_analyzer', 'data_processor', 'regime_detector', 'strategy_generator', 'model_trainer', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 02:57:34,762 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 02:57:34,767 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 31760)
+2025-11-11 02:57:34,767 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 02:57:34,771 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 31761)
+2025-11-11 02:57:34,772 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:57:34,774 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31762)
+2025-11-11 02:57:34,775 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 02:57:34,778 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 02:57:37,784 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 02:57:37,785 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 02:57:37,790 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 31765)
+2025-11-11 02:57:37,791 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 02:57:37,794 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 31766)
+2025-11-11 02:57:37,794 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:57:37,797 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31767)
+2025-11-11 02:57:37,797 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 02:57:37,800 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 02:57:47,805 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 31768)
+2025-11-11 02:57:57,810 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 02:57:57,812 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 02:58:17,817 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 02:58:17,817 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 02:58:17,817 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 02:58:17,817 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 02:58:17,818 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 02:58:22,823 - EnhancedOrchestrator - ERROR - [ERROR] performance_dashboard failed to start
+2025-11-11 02:58:22,824 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:58:22,824 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:58:22,824 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:58:22,824 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:58:22,824 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:58:24,827 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:58:24,829 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31782)
+2025-11-11 02:58:24,829 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:58:24,829 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:58:24,835 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:58:24,835 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:58:24,835 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:58:24,844 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:58:26,849 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:58:26,850 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31783)
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:58:56,852 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:58:58,856 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:58:58,858 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31784)
+2025-11-11 02:58:58,860 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:58:58,860 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:58:58,860 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:58:58,868 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:59:00,872 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:59:00,874 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31785)
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 02:59:30,872 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 02:59:32,874 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 02:59:32,879 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31824)
+2025-11-11 02:59:32,882 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 02:59:32,882 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 02:59:32,882 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 02:59:32,898 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 02:59:34,902 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 02:59:34,905 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31826)
+2025-11-11 03:00:04,909 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:00:04,910 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:00:06,915 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:00:06,917 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31827)
+2025-11-11 03:00:06,920 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:00:06,920 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:00:06,920 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:00:06,929 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:00:08,934 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:00:08,936 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31830)
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:00:38,943 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:00:40,949 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:00:40,954 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 31833)
+2025-11-11 03:00:40,976 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:00:40,976 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:00:40,976 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:00:40,985 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:00:42,998 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:00:43,001 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 31834)
+2025-11-11 03:00:52,579 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:00:52,614 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:00:52,614 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:00:52,618 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:00:52,618 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 03:00:52,619 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 03:00:52,623 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 03:39:11,790 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 03:39:11,791 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 03:39:11,792 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'system_analyzer', 'regime_detector', 'ai_server', 'strategy_generator', 'model_trainer', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 03:39:11,792 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 03:39:11,798 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 37880)
+2025-11-11 03:39:11,798 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:39:11,803 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 37881)
+2025-11-11 03:39:11,804 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 03:39:11,808 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 37882)
+2025-11-11 03:39:11,809 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:39:11,812 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:39:14,818 - EnhancedOrchestrator - INFO - [OK] regime_detector started successfully (PID: 37883)
+2025-11-11 03:39:17,818 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:39:17,821 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 37886)
+2025-11-11 03:39:17,821 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 03:39:17,823 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 37887)
+2025-11-11 03:39:17,823 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 03:39:17,826 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 37888)
+2025-11-11 03:39:17,826 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 03:39:17,829 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 03:39:27,832 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 37889)
+2025-11-11 03:39:37,836 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 03:39:37,841 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 03:39:57,845 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 03:39:57,845 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 03:39:57,845 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 03:39:57,845 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 03:39:57,847 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 03:40:02,852 - EnhancedOrchestrator - ERROR - [ERROR] performance_dashboard failed to start
+2025-11-11 03:40:02,853 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:40:02,853 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:40:02,853 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:40:02,853 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:40:04,856 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:40:04,862 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 38081)
+2025-11-11 03:40:04,862 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:40:04,863 - EnhancedOrchestrator - WARNING - Component regime_detector health check failed
+2025-11-11 03:40:04,863 - EnhancedOrchestrator - INFO - Auto-restarting regime_detector (policy: always)
+2025-11-11 03:40:04,863 - EnhancedOrchestrator - INFO - Stopping component: regime_detector
+2025-11-11 03:40:04,863 - EnhancedOrchestrator - INFO - [OK] regime_detector stopped
+2025-11-11 03:40:06,869 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:40:06,873 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:40:09,876 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 03:40:09,894 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:40:09,894 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:40:09,894 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:40:09,933 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:40:11,939 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:40:11,944 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 38192)
+2025-11-11 03:40:11,945 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:40:11,945 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:40:41,946 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:40:41,947 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:40:43,948 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:40:43,957 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 38375)
+2025-11-11 03:40:43,966 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:40:43,966 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:40:43,966 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:40:44,005 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:40:46,011 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:40:46,018 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 38381)
+2025-11-11 03:41:16,019 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:41:16,020 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:41:16,020 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:41:16,020 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:41:16,020 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:41:16,020 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:41:16,021 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:41:18,023 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:41:18,028 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 38406)
+2025-11-11 03:41:18,034 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:41:18,035 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:41:18,035 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:41:18,053 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:41:20,059 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:41:20,065 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 38407)
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:41:50,068 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:41:52,074 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:41:52,080 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 38410)
+2025-11-11 03:41:52,086 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:41:52,086 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:41:52,086 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:41:52,104 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:47:53,709 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 03:49:10,934 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 03:49:10,934 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 03:49:10,934 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 03:49:10,934 - EnhancedOrchestrator - INFO - Startup order: ['system_analyzer', 'data_processor', 'model_registry', 'regime_detector', 'strategy_generator', 'ai_server', 'model_trainer', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 03:49:10,934 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 03:49:10,936 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 38641)
+2025-11-11 03:49:10,936 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:49:10,937 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 38642)
+2025-11-11 03:49:10,937 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 03:49:10,938 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 38643)
+2025-11-11 03:49:10,938 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:49:10,939 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:49:13,944 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 03:49:13,945 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 03:49:13,951 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 38650)
+2025-11-11 03:49:13,951 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:49:13,955 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 38651)
+2025-11-11 03:49:13,955 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 03:49:13,958 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 38652)
+2025-11-11 03:49:13,959 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 03:49:13,962 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 03:49:23,967 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 38653)
+2025-11-11 03:49:33,973 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 03:49:33,978 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 03:49:53,978 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 03:49:53,980 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 03:49:53,980 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 03:49:53,981 - EnhancedOrchestrator - INFO - Starting component: performance_dashboard
+2025-11-11 03:49:53,987 - EnhancedOrchestrator - INFO - Waiting 5s for performance_dashboard to initialize
+2025-11-11 03:49:58,991 - EnhancedOrchestrator - ERROR - [ERROR] performance_dashboard failed to start
+2025-11-11 03:51:37,366 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 03:51:37,366 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 03:51:37,367 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'system_analyzer', 'data_processor', 'regime_detector', 'ai_server', 'model_trainer', 'strategy_generator', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 03:51:37,367 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 03:51:37,373 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39462)
+2025-11-11 03:51:37,373 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 03:51:37,378 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 39463)
+2025-11-11 03:51:37,378 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:51:37,380 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39464)
+2025-11-11 03:51:37,380 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:51:37,383 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:51:40,387 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 03:51:40,388 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:51:40,392 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39470)
+2025-11-11 03:51:40,392 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 03:51:40,395 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 39471)
+2025-11-11 03:51:40,395 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 03:51:40,399 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 39472)
+2025-11-11 03:51:40,399 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 03:51:40,403 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 03:51:50,403 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 39473)
+2025-11-11 03:52:00,408 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 03:52:00,413 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 03:52:20,414 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 03:52:20,415 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 03:52:20,415 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 03:52:20,415 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-11 03:52:20,415 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-11 03:52:20,415 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:52:20,416 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:52:20,416 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:52:20,416 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:52:20,416 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:52:22,421 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:52:22,428 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39484)
+2025-11-11 03:52:22,428 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:52:22,428 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:52:22,428 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:52:22,428 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:52:24,430 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:52:24,436 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39485)
+2025-11-11 03:52:24,437 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:52:24,437 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:52:54,437 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:52:54,438 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:52:56,440 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:52:56,445 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39487)
+2025-11-11 03:52:56,445 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:52:56,445 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:52:56,445 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:52:56,446 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:52:58,446 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:52:58,452 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39488)
+2025-11-11 03:53:01,027 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:53:01,027 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:53:01,027 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:53:01,036 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:53:01,036 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 03:53:01,055 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 03:53:01,056 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 03:53:01,065 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 03:54:29,206 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 03:54:29,206 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 03:54:29,206 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 03:54:29,206 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'system_analyzer', 'data_processor', 'regime_detector', 'model_trainer', 'strategy_generator', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 03:54:29,206 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 03:54:29,207 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39561)
+2025-11-11 03:54:29,207 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 03:54:29,208 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 39562)
+2025-11-11 03:54:29,208 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:54:29,209 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39563)
+2025-11-11 03:54:29,209 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:54:29,210 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:54:32,215 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 03:54:32,216 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 03:54:32,220 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 39568)
+2025-11-11 03:54:32,220 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 03:54:32,223 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 39569)
+2025-11-11 03:54:32,224 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:54:32,227 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39570)
+2025-11-11 03:54:32,228 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 03:54:32,232 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 03:54:42,233 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 39571)
+2025-11-11 03:54:52,239 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 03:54:52,244 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 03:55:12,245 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 03:55:12,246 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 03:55:12,246 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 03:55:12,246 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-11 03:55:12,247 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-11 03:56:53,955 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 03:56:53,955 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 03:56:53,956 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 03:56:53,956 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:56:53,961 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39583)
+2025-11-11 03:56:53,962 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 03:56:53,966 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39584)
+2025-11-11 03:56:53,966 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 03:56:53,970 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 03:56:56,976 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 03:56:56,977 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:56:56,982 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39590)
+2025-11-11 03:56:56,982 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 03:56:56,985 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 03:57:04,986 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 03:57:04,987 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:57:04,987 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:57:04,987 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:57:04,987 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:57:06,989 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:57:06,994 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39593)
+2025-11-11 03:57:37,000 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:57:37,000 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:57:37,000 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:57:37,001 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:57:39,005 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:57:39,010 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39596)
+2025-11-11 03:57:39,010 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:57:39,011 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:57:39,011 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:57:39,011 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:57:41,012 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:57:41,015 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39597)
+2025-11-11 03:58:11,016 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:58:11,017 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:58:11,017 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:58:11,017 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:58:13,020 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:58:13,026 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39601)
+2025-11-11 03:58:13,027 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:58:13,027 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:58:13,027 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:58:13,027 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:58:15,031 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:58:15,035 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39602)
+2025-11-11 03:58:45,036 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:58:45,037 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:58:45,037 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:58:45,037 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:58:47,041 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:58:47,045 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39604)
+2025-11-11 03:58:47,046 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:58:47,046 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:58:47,046 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:58:47,046 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:58:49,051 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:58:49,057 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39605)
+2025-11-11 03:59:19,059 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:59:19,060 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:59:19,060 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:59:19,060 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:59:21,061 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:59:21,066 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39628)
+2025-11-11 03:59:21,066 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:59:21,067 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:59:21,067 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:59:21,067 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:59:23,068 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 03:59:23,075 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39629)
+2025-11-11 03:59:53,076 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 03:59:53,076 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 03:59:53,076 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:59:53,076 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:59:55,079 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 03:59:55,083 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39666)
+2025-11-11 03:59:55,083 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 03:59:55,084 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 03:59:55,084 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 03:59:55,084 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 03:59:55,440 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 03:59:55,449 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 03:59:55,450 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 03:59:55,458 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 04:00:05,747 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:00:05,747 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:00:05,748 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:00:05,748 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:00:05,754 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39669)
+2025-11-11 04:00:05,755 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:00:05,758 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39670)
+2025-11-11 04:00:05,759 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:00:05,762 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:00:08,763 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:00:08,764 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:00:08,769 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39675)
+2025-11-11 04:00:08,769 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:00:08,772 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:00:16,776 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 04:00:16,776 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 04:00:16,776 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 04:00:16,776 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 04:00:16,776 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 04:00:18,779 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:00:18,782 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39677)
+2025-11-11 04:00:30,537 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 04:00:30,538 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 04:00:30,538 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 04:00:30,557 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 04:00:30,557 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 04:00:30,561 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 04:01:12,365 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 04:01:12,365 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:01:12,365 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:01:12,365 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:01:12,365 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:01:12,367 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39683)
+2025-11-11 04:01:12,367 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:01:12,368 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39684)
+2025-11-11 04:01:12,368 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:01:12,369 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:01:15,374 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:01:15,376 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:01:15,380 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39689)
+2025-11-11 04:01:15,381 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:01:15,384 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:04:53,533 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 04:04:53,533 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:04:53,533 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:04:53,533 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:04:53,533 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:04:53,534 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 39788)
+2025-11-11 04:04:53,534 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:04:53,535 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 39789)
+2025-11-11 04:04:53,536 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:04:53,536 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:04:56,542 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:04:56,543 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:04:56,547 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 39794)
+2025-11-11 04:04:56,548 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:04:56,552 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:05:04,553 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 04:08:20,167 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 04:08:20,167 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:08:20,167 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:08:20,167 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:08:20,167 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:08:20,169 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40079)
+2025-11-11 04:08:20,169 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:08:20,170 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40080)
+2025-11-11 04:08:20,170 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:08:20,171 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:08:23,176 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:08:23,177 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:08:23,183 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40085)
+2025-11-11 04:08:23,183 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:08:23,186 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:08:31,187 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 04:09:11,151 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 04:09:11,151 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:09:11,151 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:09:11,151 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:09:11,151 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:09:11,152 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40089)
+2025-11-11 04:09:11,152 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:09:11,153 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40090)
+2025-11-11 04:09:11,154 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:09:11,154 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:09:14,160 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:09:14,162 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:09:14,168 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40096)
+2025-11-11 04:09:14,168 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:09:14,172 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:09:22,176 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 04:13:09,950 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 04:13:09,950 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 04:13:09,950 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 04:13:09,950 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 04:13:09,950 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 04:13:09,951 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40183)
+2025-11-11 04:13:09,951 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 04:13:09,952 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40184)
+2025-11-11 04:13:09,953 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 04:13:09,953 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 04:13:12,959 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 04:13:12,960 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 04:13:12,965 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40189)
+2025-11-11 04:13:12,965 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 04:13:12,968 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 04:13:20,973 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:10:03,970 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:10:03,971 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:10:03,971 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:10:03,971 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:10:03,971 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:10:03,973 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40749)
+2025-11-11 14:10:03,973 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:10:03,974 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40750)
+2025-11-11 14:10:03,974 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:10:03,975 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:10:06,981 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:10:06,982 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:10:06,986 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40755)
+2025-11-11 14:10:06,987 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:10:06,990 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:10:14,995 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:10:36,876 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:10:36,876 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:10:36,876 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:10:36,876 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:10:36,876 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:10:36,877 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40760)
+2025-11-11 14:10:36,878 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:10:36,879 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40761)
+2025-11-11 14:10:36,879 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:10:36,880 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:10:39,885 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:10:39,886 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:10:39,892 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40766)
+2025-11-11 14:10:39,892 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:10:39,895 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:10:47,900 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:17:45,137 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:17:45,137 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:17:45,137 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:17:45,137 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:17:45,137 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:17:45,139 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40829)
+2025-11-11 14:17:45,139 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:17:45,140 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40830)
+2025-11-11 14:17:45,140 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:17:45,141 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:17:48,146 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:17:48,148 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:17:48,153 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40837)
+2025-11-11 14:17:48,153 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:17:48,156 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:17:56,158 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:21:17,239 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:21:17,240 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:21:17,240 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:21:17,240 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:21:17,240 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:21:17,241 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40930)
+2025-11-11 14:21:17,241 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:21:17,242 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40931)
+2025-11-11 14:21:17,242 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:21:17,243 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:21:20,248 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:21:20,249 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:21:20,254 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40936)
+2025-11-11 14:21:20,254 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:21:20,257 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:21:28,263 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:23:44,574 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:23:44,575 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:23:44,575 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:23:44,575 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:23:44,575 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:23:44,576 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 40973)
+2025-11-11 14:23:44,576 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:23:44,577 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 40974)
+2025-11-11 14:23:44,577 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:23:44,578 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:23:47,583 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:23:47,584 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:23:47,589 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 40979)
+2025-11-11 14:23:47,589 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:23:47,592 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:23:55,597 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:29:21,048 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:29:21,049 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:29:21,049 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:29:21,049 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:29:21,049 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:29:21,050 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41035)
+2025-11-11 14:29:21,050 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:29:21,051 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41036)
+2025-11-11 14:29:21,051 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:29:21,052 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:29:24,057 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:29:24,058 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:29:24,064 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41041)
+2025-11-11 14:29:24,064 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:29:24,067 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:29:32,071 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:30:06,838 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:30:06,838 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 14:30:06,838 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 14:30:06,838 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 14:30:06,838 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 14:30:06,840 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41051)
+2025-11-11 14:30:06,840 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 14:30:06,841 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41052)
+2025-11-11 14:30:06,841 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 14:30:06,841 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 14:30:09,847 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 14:30:09,848 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 14:30:09,853 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41057)
+2025-11-11 14:30:09,853 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 14:30:09,856 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 14:30:17,859 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 14:30:58,523 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:31:33,315 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:32:01,393 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:32:01,394 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:32:02,109 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:32:02,535 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:32:02,535 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:32:02,535 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:32:02,536 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:32:02,536 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:32:02,536 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:32:02,536 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:32:02,537 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:32:02,538 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:32:02,538 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 14:32:02,538 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:32:02,538 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 14:32:02,539 - yfinance - ERROR - Failed to get ticker 'GC=F' reason: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2025-11-11 14:32:02,540 - yfinance - ERROR - GC=F: No timezone found, symbol may be delisted
+2025-11-11 14:32:02,540 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 14:32:02,561 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 14:32:02,926 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:32:02,944 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_143202.json
+2025-11-11 14:32:02,944 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:36:41,723 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:36:41,723 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:36:42,540 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:36:43,057 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:36:43,058 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:36:43,058 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:36:43,058 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:36:43,058 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:36:43,058 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:36:43,058 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:36:43,059 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:36:43,060 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:36:43,060 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 14:36:43,060 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:36:43,060 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 14:36:43,062 - yfinance - ERROR - Failed to get ticker 'GC=F' reason: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2025-11-11 14:36:43,062 - yfinance - ERROR - GC=F: No timezone found, symbol may be delisted
+2025-11-11 14:36:43,062 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 14:36:43,083 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 14:36:43,442 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:36:43,460 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_143643.json
+2025-11-11 14:36:43,460 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:38:35,340 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:38:35,340 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:38:36,859 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:38:37,266 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:38:37,266 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:38:37,266 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:38:37,266 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:38:37,266 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:38:37,266 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:38:37,266 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:38:37,267 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:38:37,268 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:38:37,268 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 14:38:37,268 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:38:37,268 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 14:38:38,395 - yfinance - ERROR - $GC=F: possibly delisted; no price data found  (1h 2023-01-01 -> 2023-12-31) (Yahoo error = "1h data not available for startTime=1672549200 and endTime=1703998800. The requested range must be within the last 730 days.")
+2025-11-11 14:38:38,395 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 14:38:38,442 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 14:38:38,833 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:38:38,851 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_143838.json
+2025-11-11 14:38:38,851 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:39:45,237 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:39:45,238 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:39:45,947 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:39:46,354 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:39:46,354 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:39:46,355 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:39:46,355 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:39:46,355 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:39:46,355 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:39:46,355 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:39:46,356 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:39:46,357 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:39:46,357 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 14:39:46,357 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:39:46,357 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 14:39:46,963 - yfinance - ERROR - $GC=F: possibly delisted; no price data found  (1h 2023-01-01 -> 2023-12-31) (Yahoo error = "1h data not available for startTime=1672549200 and endTime=1703998800. The requested range must be within the last 730 days.")
+2025-11-11 14:39:46,964 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 14:39:47,011 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 14:39:47,395 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:39:47,412 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_143947.json
+2025-11-11 14:39:47,412 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:41:44,677 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:41:44,678 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:41:45,493 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:41:45,983 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:41:45,984 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:41:45,984 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:41:45,984 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:41:45,984 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:41:45,984 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:41:45,985 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:41:45,985 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:41:45,986 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:41:45,986 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2023-01-01 to 2023-12-31)
+2025-11-11 14:41:45,986 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:41:45,986 - BacktestEngine - INFO - Period: 2023-01-01 to 2023-12-31
+2025-11-11 14:41:46,570 - yfinance - ERROR - $GC=F: possibly delisted; no price data found  (1h 2023-01-01 -> 2023-12-31) (Yahoo error = "1h data not available for startTime=1672549200 and endTime=1703998800. The requested range must be within the last 730 days.")
+2025-11-11 14:41:46,571 - root - ERROR - Error fetching data for XAUUSD: No data available for XAUUSD
+2025-11-11 14:41:46,618 - BacktestEngine - INFO - Loaded 8737 data points
+2025-11-11 14:41:47,006 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:41:47,023 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_144147.json
+2025-11-11 14:41:47,024 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:45:10,716 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:45:10,717 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:45:11,520 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:45:12,011 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:45:12,012 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:45:12,012 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:45:12,012 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:45:12,012 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:45:12,012 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:45:12,012 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:45:12,013 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:45:12,014 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:45:12,014 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 14:45:12,014 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:45:12,014 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 14:45:12,574 - root - ERROR - Error fetching data for XAUUSD: Length mismatch: Expected axis has 7 elements, new values have 5 elements
+2025-11-11 14:45:12,600 - BacktestEngine - INFO - Loaded 8761 data points
+2025-11-11 14:45:12,977 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:45:12,994 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_144512.json
+2025-11-11 14:45:12,994 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:47:20,472 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:47:20,473 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:47:21,173 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:47:21,572 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:47:21,572 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:47:21,572 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:47:21,572 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:47:21,572 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:47:21,572 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:47:21,572 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:47:21,573 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:47:21,574 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:47:21,574 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 14:47:21,574 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:47:21,574 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 14:47:21,574 - root - ERROR - Error fetching data for XAUUSD: name 'yf_symbol' is not defined
+2025-11-11 14:47:21,595 - BacktestEngine - INFO - Loaded 8761 data points
+2025-11-11 14:47:21,979 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:47:21,997 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_144721.json
+2025-11-11 14:47:21,997 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 14:49:15,763 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 14:49:15,763 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 14:49:16,573 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 14:49:17,074 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:49:17,075 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:49:17,075 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:49:17,075 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:49:17,075 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:49:17,075 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:49:17,075 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 14:49:17,076 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 14:49:17,077 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 14:49:17,077 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 14:49:17,077 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 14:49:17,077 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 14:49:17,666 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 14:49:17,929 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 14:49:17,941 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_144917.json
+2025-11-11 14:49:17,941 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:17:54,427 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 15:17:54,429 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 15:17:54,429 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'system_analyzer', 'model_registry', 'regime_detector', 'model_trainer', 'strategy_generator', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 15:17:54,429 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:17:54,436 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41349)
+2025-11-11 15:17:54,436 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 15:17:54,441 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 41350)
+2025-11-11 15:17:54,441 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 15:17:54,446 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41351)
+2025-11-11 15:17:54,446 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 15:17:54,450 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 15:17:57,455 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 15:17:57,456 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 15:17:57,461 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 41357)
+2025-11-11 15:17:57,462 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 15:17:57,464 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 41358)
+2025-11-11 15:17:57,465 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:17:57,467 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41359)
+2025-11-11 15:17:57,468 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 15:17:57,470 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 15:18:07,475 - EnhancedOrchestrator - INFO - [OK] ensemble_system started successfully (PID: 41360)
+2025-11-11 15:18:17,480 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 15:18:17,486 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 15:18:37,491 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 15:18:37,491 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 15:18:37,491 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:18:37,492 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:18:39,494 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41368)
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:18:39,499 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:18:41,501 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:18:41,506 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41369)
+2025-11-11 15:19:11,512 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 15:19:11,512 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 15:19:11,513 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 15:19:11,513 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 15:19:11,513 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 15:19:11,513 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:19:11,513 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:19:13,514 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:19:13,520 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41371)
+2025-11-11 15:19:13,521 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 15:19:13,521 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 15:19:13,521 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:19:13,521 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:19:15,523 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:19:15,527 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41372)
+2025-11-11 15:19:45,533 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 15:19:45,533 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 15:19:45,533 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 15:19:45,533 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 15:19:45,533 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 15:19:45,534 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:19:45,534 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:19:47,539 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:19:47,546 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41373)
+2025-11-11 15:19:47,546 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 15:19:47,546 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 15:19:47,546 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:19:47,546 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:19:49,548 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:19:49,555 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41374)
+2025-11-11 15:20:05,127 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:20:05,128 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:20:05,128 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:20:05,145 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:20:05,146 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 15:20:05,165 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 15:20:05,174 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 15:20:05,174 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 15:20:05,174 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 15:20:06,148 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:20:06,148 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 15:20:06,149 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 15:20:09,155 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 15:20:31,671 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:20:31,672 - EnhancedOrchestrator - WARNING - Dependency ai_server not running for enhanced_trade_logger
+2025-11-11 15:20:31,672 - EnhancedOrchestrator - ERROR - Dependencies not met for enhanced_trade_logger
+2025-11-11 15:21:10,617 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:21:10,617 - EnhancedOrchestrator - WARNING - Dependency model_registry not running for ai_server
+2025-11-11 15:21:10,617 - EnhancedOrchestrator - ERROR - Dependencies not met for ai_server
+2025-11-11 15:21:47,859 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:21:47,859 - EnhancedOrchestrator - WARNING - Dependency model_registry not running for ai_server
+2025-11-11 15:21:47,859 - EnhancedOrchestrator - ERROR - Dependencies not met for ai_server
+2025-11-11 15:22:26,554 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:22:26,554 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 15:22:26,555 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41388)
+2025-11-11 15:22:40,208 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:22:40,208 - EnhancedOrchestrator - WARNING - Dependency model_registry not running for ai_server
+2025-11-11 15:22:40,208 - EnhancedOrchestrator - ERROR - Dependencies not met for ai_server
+2025-11-11 15:23:07,442 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:23:07,442 - EnhancedOrchestrator - WARNING - Dependency ai_server not running for enhanced_trade_logger
+2025-11-11 15:23:07,442 - EnhancedOrchestrator - ERROR - Dependencies not met for enhanced_trade_logger
+2025-11-11 15:24:12,778 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:24:12,779 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:24:13,646 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:24:14,164 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:24:14,164 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:24:14,164 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:24:14,164 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:24:14,164 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:24:14,165 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:24:14,165 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:24:14,166 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 15:24:14,167 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:24:14,167 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:24:14,167 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:24:14,167 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:24:14,183 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:24:14,407 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:24:14,419 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_152414.json
+2025-11-11 15:24:14,419 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:30:38,972 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:30:38,973 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:30:39,806 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:30:40,335 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:30:40,335 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:30:40,336 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:30:40,336 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:30:40,336 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:30:40,336 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:30:40,336 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:30:40,337 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 15:30:40,338 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:30:40,338 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:30:40,338 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:30:40,338 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:30:40,352 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:30:40,565 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:30:40,577 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_153040.json
+2025-11-11 15:30:40,577 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:35:11,773 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:35:11,773 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:35:12,588 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:35:13,082 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:35:13,082 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:35:13,082 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:35:13,082 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:35:13,082 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:35:13,083 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:35:13,083 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:35:13,084 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 15:35:13,085 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:35:13,085 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:35:13,085 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:35:13,085 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:35:13,098 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:35:13,336 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:35:13,347 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_153513.json
+2025-11-11 15:35:13,347 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:36:57,323 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:36:57,324 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:36:58,140 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:36:58,642 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:36:58,642 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:36:58,642 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:36:58,642 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:36:58,642 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:36:58,642 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:36:58,643 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:36:58,644 - BacktestingIntegration - WARNING - Ensemble models not available: cannot import name 'EnsembleModelSystem' from 'scripts.ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 15:36:58,644 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:36:58,644 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:36:58,644 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:36:58,644 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:36:58,658 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:36:58,904 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:36:58,916 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_153658.json
+2025-11-11 15:36:58,916 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:38:24,015 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:38:24,015 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:38:24,713 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:38:24,929 - BacktestingIntegration - WARNING - Phase 4 controller not available: cannot import name 'AdvancedEnsembleSystem' from 'ai.ensemble_models' (/Users/arturo/git/ai-gold-scalper/scripts/ai/ensemble_models.py)
+2025-11-11 15:38:24,930 - BacktestingIntegration - INFO - ✅ Ensemble model system initialized
+2025-11-11 15:38:24,998 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:38:24,998 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:38:24,998 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:38:24,998 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:38:25,011 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:38:25,237 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:38:25,248 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_ensemble_20251111_153825.json
+2025-11-11 15:38:25,248 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:41:12,815 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:41:12,816 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:41:13,684 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:41:14,222 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:41:14,222 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:41:14,222 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:41:14,223 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:41:14,223 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:41:14,223 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:41:14,223 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:41:14,224 - BacktestingIntegration - INFO - ✅ Ensemble model system initialized
+2025-11-11 15:41:14,225 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:41:14,225 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:41:14,225 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:41:14,225 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:41:14,240 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:41:14,480 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:41:14,497 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_154114.json
+2025-11-11 15:41:14,497 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:46:05,227 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:46:05,228 - BacktestingIntegration - INFO - Backtesting Integration initialized
+2025-11-11 15:46:06,040 - BacktestingIntegration - INFO - ✅ Backtesting system initialized
+2025-11-11 15:46:06,540 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:46:06,541 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:46:06,541 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 15:46:06,541 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 15:46:06,541 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:46:06,541 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:46:06,541 - BacktestingIntegration - INFO - ✅ Phase 4 controller initialized
+2025-11-11 15:46:06,542 - BacktestingIntegration - INFO - ✅ Ensemble model system initialized
+2025-11-11 15:46:06,543 - BacktestingIntegration - INFO - ✅ Market regime detector initialized
+2025-11-11 15:46:06,543 - BacktestingIntegration - INFO - Starting comprehensive backtest: XAUUSD (2024-11-01 to 2025-11-01)
+2025-11-11 15:46:06,543 - BacktestEngine - INFO - Starting backtest for XAUUSD using ai_model
+2025-11-11 15:46:06,543 - BacktestEngine - INFO - Period: 2024-11-01 to 2025-11-01
+2025-11-11 15:46:06,557 - BacktestEngine - INFO - Loaded 5753 data points
+2025-11-11 15:46:06,797 - BacktestEngine - INFO - Backtest completed successfully
+2025-11-11 15:46:06,809 - BacktestingIntegration - INFO - Results saved to: logs/backtesting/results/backtest_XAUUSD_phase4_20251111_154606.json
+2025-11-11 15:46:06,809 - BacktestingIntegration - INFO - Comprehensive backtest completed successfully
+2025-11-11 15:47:53,417 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-11 15:47:53,418 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 15:47:53,418 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 15:47:53,418 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'system_analyzer', 'data_processor', 'regime_detector', 'strategy_generator', 'model_trainer', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 15:47:53,418 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 15:47:53,419 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41775)
+2025-11-11 15:47:53,419 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 15:47:53,420 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 41776)
+2025-11-11 15:47:53,420 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:47:53,421 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41777)
+2025-11-11 15:47:53,421 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 15:47:53,423 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 15:47:56,428 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 15:47:56,429 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 15:47:56,435 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 41782)
+2025-11-11 15:47:56,435 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 15:47:56,438 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 41783)
+2025-11-11 15:47:56,439 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:47:56,442 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41784)
+2025-11-11 15:47:56,442 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 15:47:56,445 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - Stopping component: ensemble_system
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - [OK] ensemble_system stopped
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 15:48:02,793 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 15:48:02,794 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 15:48:02,794 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 15:48:02,794 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:48:02,811 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:48:02,812 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 15:48:02,812 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-11 15:48:02,812 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 15:48:02,821 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 15:48:13,860 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-11 15:48:13,860 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-11 15:48:13,860 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-11 15:48:13,861 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:48:13,864 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41793)
+2025-11-11 15:48:13,865 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 15:48:13,868 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41794)
+2025-11-11 15:48:13,869 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 15:48:13,872 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 15:48:16,878 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 15:48:16,879 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:48:16,884 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41800)
+2025-11-11 15:48:16,884 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-11 15:48:16,888 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-11 15:48:24,889 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-11 15:48:24,890 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 15:48:24,890 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 15:48:24,890 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:48:24,890 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:48:26,892 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:48:26,898 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41806)
+2025-11-11 15:48:27,855 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:48:27,855 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:48:27,855 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 15:48:27,859 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 15:48:27,859 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:48:27,863 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:51:36,105 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-11 15:51:36,105 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-11 15:51:36,106 - EnhancedOrchestrator - INFO - Startup order: ['system_analyzer', 'model_registry', 'data_processor', 'regime_detector', 'ai_server', 'model_trainer', 'strategy_generator', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-11 15:51:36,106 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-11 15:51:36,111 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 41833)
+2025-11-11 15:51:36,112 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-11 15:51:36,116 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 41834)
+2025-11-11 15:51:36,116 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:51:36,120 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41835)
+2025-11-11 15:51:36,121 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-11 15:51:36,124 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-11 15:51:39,130 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-11 15:51:39,131 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:51:39,137 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41841)
+2025-11-11 15:51:39,138 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-11 15:51:39,142 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 41842)
+2025-11-11 15:51:39,142 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-11 15:51:39,145 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 41843)
+2025-11-11 15:51:39,146 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-11 15:51:39,150 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-11 15:51:49,155 - EnhancedOrchestrator - ERROR - [ERROR] ensemble_system failed to start
+2025-11-11 15:51:49,156 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-11 15:51:49,160 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-11 15:52:09,165 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - WARNING - Component system_analyzer health check failed
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-11 15:52:09,166 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-11 15:52:09,167 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:52:09,167 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:52:11,167 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-11 15:52:11,172 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 41850)
+2025-11-11 15:52:11,172 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-11 15:52:11,172 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-11 15:52:11,172 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:52:11,172 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:52:13,175 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-11 15:52:13,180 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 41851)
+2025-11-11 15:52:13,181 - EnhancedOrchestrator - WARNING - Component model_trainer health check failed
+2025-11-11 15:52:13,181 - EnhancedOrchestrator - WARNING - Component strategy_generator health check failed
+2025-11-11 15:52:19,884 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-11 15:52:19,884 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-11 15:52:19,884 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-11 15:52:19,901 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-11 15:52:19,901 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-11 15:52:19,902 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-11 15:52:19,902 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-11 15:52:19,902 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-11 15:52:19,902 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-11 15:52:19,911 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-11 15:52:19,911 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-11 15:52:19,911 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-12 20:36:42,004 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 20:36:42,004 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-12 20:36:42,004 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-12 20:36:42,004 - EnhancedOrchestrator - INFO - Startup order: ['system_analyzer', 'data_processor', 'model_registry', 'regime_detector', 'strategy_generator', 'model_trainer', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-12 20:36:42,004 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-12 20:36:42,006 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 57925)
+2025-11-12 20:36:42,006 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 20:36:42,007 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 57926)
+2025-11-12 20:36:42,007 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 20:36:42,008 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 57927)
+2025-11-12 20:36:42,009 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 20:36:42,010 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 20:36:45,015 - EnhancedOrchestrator - INFO - [OK] regime_detector started successfully (PID: 57928)
+2025-11-12 20:36:48,016 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-12 20:36:48,019 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 57934)
+2025-11-12 20:36:48,020 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-12 20:36:48,022 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 57935)
+2025-11-12 20:36:48,022 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:36:48,026 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 57936)
+2025-11-12 20:36:48,026 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-12 20:36:48,030 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-12 20:36:58,035 - EnhancedOrchestrator - ERROR - [ERROR] ensemble_system failed to start
+2025-11-12 20:36:58,037 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-12 20:36:58,041 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-12 20:37:18,046 - EnhancedOrchestrator - ERROR - [ERROR] adaptive_learning failed to start
+2025-11-12 20:37:18,047 - EnhancedOrchestrator - WARNING - Dependency strategy_generator has stopped for advanced_backtester
+2025-11-12 20:37:18,047 - EnhancedOrchestrator - ERROR - Dependencies not met for advanced_backtester
+2025-11-12 20:37:18,047 - EnhancedOrchestrator - WARNING - Dependency ai_server has stopped for performance_dashboard
+2025-11-12 20:37:18,047 - EnhancedOrchestrator - ERROR - Dependencies not met for performance_dashboard
+2025-11-12 20:38:27,122 - EnhancedOrchestrator - INFO - Deployment type: development
+2025-11-12 20:38:27,123 - EnhancedOrchestrator - INFO - Selected components: ['adaptive_learning', 'advanced_backtester', 'ai_server', 'backtesting_integration', 'backtesting_system', 'data_processor', 'enhanced_trade_logger', 'ensemble_system', 'model_registry', 'model_trainer', 'performance_dashboard', 'phase4_controller', 'postmortem_analyzer', 'regime_detector', 'risk_optimizer', 'server_integration_layer', 'strategy_generator', 'system_analyzer']
+2025-11-12 20:38:27,123 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'system_analyzer', 'regime_detector', 'model_trainer', 'strategy_generator', 'ai_server', 'ensemble_system', 'adaptive_learning', 'advanced_backtester', 'performance_dashboard', 'enhanced_trade_logger', 'phase4_controller', 'postmortem_analyzer', 'risk_optimizer', 'backtesting_system', 'server_integration_layer', 'backtesting_integration']
+2025-11-12 20:38:27,123 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 20:38:27,129 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 57946)
+2025-11-12 20:38:27,129 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 20:38:27,133 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 57947)
+2025-11-12 20:38:27,134 - EnhancedOrchestrator - INFO - Starting component: system_analyzer
+2025-11-12 20:38:27,138 - EnhancedOrchestrator - INFO - [OK] system_analyzer started successfully (PID: 57948)
+2025-11-12 20:38:27,139 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 20:38:27,142 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 20:38:30,148 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-12 20:38:30,149 - EnhancedOrchestrator - INFO - Starting component: model_trainer
+2025-11-12 20:38:30,153 - EnhancedOrchestrator - INFO - [OK] model_trainer started successfully (PID: 57956)
+2025-11-12 20:38:30,153 - EnhancedOrchestrator - INFO - Starting component: strategy_generator
+2025-11-12 20:38:30,158 - EnhancedOrchestrator - INFO - [OK] strategy_generator started successfully (PID: 57957)
+2025-11-12 20:38:30,159 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:38:30,164 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 57958)
+2025-11-12 20:38:30,164 - EnhancedOrchestrator - INFO - Starting component: ensemble_system
+2025-11-12 20:38:30,168 - EnhancedOrchestrator - INFO - Waiting 10s for ensemble_system to initialize
+2025-11-12 20:38:40,173 - EnhancedOrchestrator - ERROR - [ERROR] ensemble_system failed to start
+2025-11-12 20:38:40,174 - EnhancedOrchestrator - INFO - Starting component: adaptive_learning
+2025-11-12 20:38:40,178 - EnhancedOrchestrator - INFO - Waiting 20s for adaptive_learning to initialize
+2025-11-12 20:38:41,814 - EnhancedOrchestrator - INFO - Stopping component: adaptive_learning
+2025-11-12 20:38:41,814 - EnhancedOrchestrator - INFO - [OK] adaptive_learning stopped
+2025-11-12 20:38:41,814 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - Stopping component: strategy_generator
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - [OK] strategy_generator stopped
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - Stopping component: model_trainer
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - [OK] model_trainer stopped
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - Stopping component: system_analyzer
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - [OK] system_analyzer stopped
+2025-11-12 20:38:41,815 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-12 20:38:41,835 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-12 20:38:41,835 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 20:38:41,844 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 20:38:56,375 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 20:38:56,376 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-12 20:38:56,376 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'data_processor', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-12 20:38:56,376 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 20:38:56,381 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 57966)
+2025-11-12 20:38:56,381 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 20:38:56,386 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 57967)
+2025-11-12 20:38:56,387 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 20:38:56,391 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 20:38:59,391 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-12 20:38:59,392 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:38:59,396 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 57972)
+2025-11-12 20:38:59,397 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-12 20:38:59,400 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-12 20:39:07,405 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-12 20:39:07,405 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 20:39:07,405 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 20:39:07,405 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 20:39:07,406 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 20:39:09,409 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:39:09,413 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 57974)
+2025-11-12 20:39:39,418 - EnhancedOrchestrator - WARNING - Component data_processor health check failed
+2025-11-12 20:39:39,419 - EnhancedOrchestrator - INFO - Auto-restarting data_processor (policy: on_failure, attempt 1)
+2025-11-12 20:39:39,419 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-12 20:39:39,419 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-12 20:39:41,421 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 20:39:41,425 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 57975)
+2025-11-12 20:39:41,425 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 20:39:41,425 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 20:39:41,425 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 20:39:41,426 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 20:39:43,429 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:39:43,432 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 57976)
+2025-11-12 20:39:49,428 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 20:39:49,429 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 20:39:49,429 - EnhancedOrchestrator - INFO - Stopping component: data_processor
+2025-11-12 20:39:49,448 - EnhancedOrchestrator - INFO - [OK] data_processor stopped
+2025-11-12 20:39:49,448 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 20:39:49,457 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 20:41:53,076 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 20:41:53,076 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 20:41:53,076 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-12 20:41:53,076 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-12 20:41:53,076 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 20:41:53,078 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 59130)
+2025-11-12 20:41:53,078 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 20:41:53,079 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 59131)
+2025-11-12 20:41:53,079 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 20:41:53,080 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 20:41:56,086 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-12 20:41:56,087 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 20:41:56,091 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 59136)
+2025-11-12 20:41:56,091 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-12 20:41:56,095 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-12 20:42:04,098 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-12 21:10:30,156 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:10:30,157 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:10:30,157 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-12 21:10:30,157 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-12 21:10:30,157 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 21:10:30,158 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 59921)
+2025-11-12 21:10:30,158 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:10:30,159 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 59922)
+2025-11-12 21:10:30,159 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 21:10:30,160 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 21:10:33,163 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start
+2025-11-12 21:10:33,164 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:10:33,168 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 59928)
+2025-11-12 21:10:33,168 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-12 21:10:33,171 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-12 21:10:41,173 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start
+2025-11-12 21:17:17,053 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:17:17,053 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:17:17,053 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-12 21:17:17,053 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-12 21:17:17,053 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 21:17:17,054 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 59987)
+2025-11-12 21:17:17,055 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:17:17,055 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 59988)
+2025-11-12 21:17:17,056 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 21:17:17,057 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 21:17:20,062 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start immediately.
+2025-11-12 21:17:20,063 - EnhancedOrchestrator - ERROR - [regime_detector STDOUT]: 🌍 AI Gold Scalper - Market Regime Detection Test
+============================================================
+📊 Generating sample market data...
+   Generated 500 data points
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Confidence: 0.34
+
+🎯 Detected Regime:
+   Name: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Volatility: low
+   Trend: bullish
+   Price Action: ranging
+   Confidence: 33.70%
+   Optimal Models: gradient_boost, xgboost, naive_bayes
+
+🔄 Testing regime detection on different segments...
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Sideways, Statistical: Normal Distribution
+   Confidence: 0.33
+   Segment 1: Combined: Low Vol Sideways, Statistical: Normal Distribution (conf: 0.33)
+🔍 Analyzing market regime...
+   Detected regime: Combined: High Vol Sideways, Statistical: Normal Distribution
+   Confidence: 0.39
+   Segment 2: Combined: High Vol Sideways, Statistical: Normal Distribution (conf: 0.39)
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Confidence: 0.41
+   Segment 3: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish (conf: 0.41)
+
+📊 Regime Detection Summary:
+   Total Regimes Detected: 10
+   Current Regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+
+✅ Market regime detection test completed successfully!
+2025-11-12 21:17:20,063 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:17:20,068 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 59993)
+2025-11-12 21:17:20,068 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-12 21:17:20,071 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-12 21:17:28,075 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start immediately.
+2025-11-12 21:17:28,075 - EnhancedOrchestrator - ERROR - [enhanced_trade_logger STDOUT]: ============================================================
+AI GOLD SCALPER - ENHANCED TRADE LOGGER
+Phase 1: Enhanced Logging System
+============================================================
+
+Creating sample trade data for testing...
+✅ Sample data created successfully!
+📊 Performance report generated: /Users/arturo/git/ai-gold-scalper/logs/performance_report_20251112_211720.json
+
+============================================================
+📈 PERFORMANCE ANALYSIS
+============================================================
+
+============================================================
+🎯 NEXT STEPS:
+  1. Integrate with enhanced_ai_server_consolidated.py
+  2. Add real-time signal logging
+  3. Create performance dashboard
+  4. Set up automated reporting
+============================================================
+2025-11-12 21:20:00,820 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:20:00,820 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:20:00,820 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'data_processor', 'enhanced_trade_logger', 'model_registry', 'regime_detector']
+2025-11-12 21:20:00,820 - EnhancedOrchestrator - INFO - Startup order: ['data_processor', 'model_registry', 'regime_detector', 'ai_server', 'enhanced_trade_logger']
+2025-11-12 21:20:00,820 - EnhancedOrchestrator - INFO - Starting component: data_processor
+2025-11-12 21:20:00,822 - EnhancedOrchestrator - INFO - [OK] data_processor started successfully (PID: 60024)
+2025-11-12 21:20:00,822 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:20:00,823 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60025)
+2025-11-12 21:20:00,823 - EnhancedOrchestrator - INFO - Starting component: regime_detector
+2025-11-12 21:20:00,824 - EnhancedOrchestrator - INFO - Waiting 3s for regime_detector to initialize
+2025-11-12 21:20:03,827 - EnhancedOrchestrator - ERROR - [ERROR] regime_detector failed to start immediately.
+2025-11-12 21:20:03,828 - EnhancedOrchestrator - ERROR - [regime_detector STDOUT]: 🌍 AI Gold Scalper - Market Regime Detection Test
+============================================================
+📊 Generating sample market data...
+   Generated 500 data points
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Confidence: 0.34
+
+🎯 Detected Regime:
+   Name: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Volatility: low
+   Trend: bullish
+   Price Action: ranging
+   Confidence: 33.70%
+   Optimal Models: gradient_boost, svm, logistic
+
+🔄 Testing regime detection on different segments...
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Sideways, Statistical: Normal Distribution
+   Confidence: 0.33
+   Segment 1: Combined: Low Vol Sideways, Statistical: Normal Distribution (conf: 0.33)
+🔍 Analyzing market regime...
+   Detected regime: Combined: High Vol Sideways, Statistical: Normal Distribution
+   Confidence: 0.39
+   Segment 2: Combined: High Vol Sideways, Statistical: Normal Distribution (conf: 0.39)
+🔍 Analyzing market regime...
+   Detected regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+   Confidence: 0.41
+   Segment 3: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish (conf: 0.41)
+
+📊 Regime Detection Summary:
+   Total Regimes Detected: 10
+   Current Regime: Combined: Low Vol Bull Trend, Cluster 0 - low_vol_bullish
+
+✅ Market regime detection test completed successfully!
+2025-11-12 21:20:03,828 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:20:03,832 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60030)
+2025-11-12 21:20:03,833 - EnhancedOrchestrator - INFO - Starting component: enhanced_trade_logger
+2025-11-12 21:20:03,836 - EnhancedOrchestrator - INFO - Waiting 8s for enhanced_trade_logger to initialize
+2025-11-12 21:20:11,838 - EnhancedOrchestrator - ERROR - [ERROR] enhanced_trade_logger failed to start immediately.
+2025-11-12 21:20:11,838 - EnhancedOrchestrator - ERROR - [enhanced_trade_logger STDOUT]: ============================================================
+AI GOLD SCALPER - ENHANCED TRADE LOGGER
+Phase 1: Enhanced Logging System
+============================================================
+
+Creating sample trade data for testing...
+✅ Sample data created successfully!
+📊 Performance report generated: /Users/arturo/git/ai-gold-scalper/logs/performance_report_20251112_212004.json
+
+============================================================
+📈 PERFORMANCE ANALYSIS
+============================================================
+
+============================================================
+🎯 NEXT STEPS:
+  1. Integrate with enhanced_ai_server_consolidated.py
+  2. Add real-time signal logging
+  3. Create performance dashboard
+  4. Set up automated reporting
+============================================================
+2025-11-12 21:24:34,672 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:24:34,673 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:24:34,673 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'model_registry']
+2025-11-12 21:24:34,673 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'ai_server']
+2025-11-12 21:24:34,673 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:24:34,674 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60166)
+2025-11-12 21:24:34,674 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:24:34,675 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60167)
+2025-11-12 21:24:34,682 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:24:34,682 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:24:34,682 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:24:34,683 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:24:36,685 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:24:36,690 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60169)
+2025-11-12 21:24:42,583 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:24:42,584 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:24:42,584 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 21:24:42,593 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 21:24:43,870 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:24:43,870 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:24:43,870 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'model_registry']
+2025-11-12 21:24:43,870 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'ai_server']
+2025-11-12 21:24:43,870 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:24:43,871 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60171)
+2025-11-12 21:24:43,872 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:24:43,872 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60172)
+2025-11-12 21:24:43,879 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:24:43,879 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:24:43,879 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:24:43,880 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:24:45,884 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:24:45,887 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60174)
+2025-11-12 21:25:00,426 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:25:00,426 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:25:00,427 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 21:25:00,444 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 21:30:25,766 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:30:25,766 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:30:25,767 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'model_registry']
+2025-11-12 21:30:25,767 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'ai_server']
+2025-11-12 21:30:25,767 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:30:25,768 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60244)
+2025-11-12 21:30:25,768 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:30:25,769 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60245)
+2025-11-12 21:30:25,775 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:30:25,775 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:30:25,775 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:30:25,777 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:30:27,777 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:30:27,783 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60247)
+2025-11-12 21:30:57,789 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:30:57,789 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:30:57,789 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:30:57,789 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:30:59,795 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:30:59,800 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60248)
+2025-11-12 21:31:29,806 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:31:29,806 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:31:29,807 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:31:29,807 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:31:31,808 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:31:31,814 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60249)
+2025-11-12 21:32:01,816 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:32:01,817 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:32:01,817 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:32:01,817 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:32:03,818 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:32:03,821 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60276)
+2025-11-12 21:32:33,827 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:32:33,827 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:32:33,827 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:32:33,827 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:32:35,828 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:32:35,835 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60277)
+2025-11-12 21:33:05,837 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:33:05,837 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:33:05,837 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:33:05,837 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:33:07,839 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:33:07,844 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60278)
+2025-11-12 21:33:37,849 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:33:37,849 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:33:37,850 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:33:37,850 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:33:39,854 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:33:39,858 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60279)
+2025-11-12 21:34:09,859 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:34:09,860 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:34:09,860 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:34:09,860 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:34:11,863 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:34:11,868 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60304)
+2025-11-12 21:34:41,869 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:34:41,870 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:34:41,871 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:34:41,871 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:34:43,874 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:34:43,878 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60312)
+2025-11-12 21:35:13,882 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:35:13,883 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:35:13,884 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:35:13,884 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:35:15,889 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:35:15,894 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60334)
+2025-11-12 21:35:20,788 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:35:20,789 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:35:20,789 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 21:35:20,808 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 21:35:21,834 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:35:21,834 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:35:21,834 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'model_registry']
+2025-11-12 21:35:21,834 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'ai_server']
+2025-11-12 21:35:21,834 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:35:21,836 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60338)
+2025-11-12 21:35:21,836 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:35:21,837 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60339)
+2025-11-12 21:35:21,843 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:35:21,843 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:35:21,843 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:35:21,844 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:35:23,849 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:35:23,854 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60341)
+2025-11-12 21:35:33,868 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:35:33,868 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:35:33,868 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 21:35:33,877 - EnhancedOrchestrator - INFO - [OK] model_registry stopped
+2025-11-12 21:40:34,710 - EnhancedOrchestrator - INFO - Enhanced System Orchestrator initialized
+2025-11-12 21:40:34,710 - EnhancedOrchestrator - INFO - Deployment type: production
+2025-11-12 21:40:34,710 - EnhancedOrchestrator - INFO - Selected components: ['ai_server', 'model_registry']
+2025-11-12 21:40:34,710 - EnhancedOrchestrator - INFO - Startup order: ['model_registry', 'ai_server']
+2025-11-12 21:40:34,710 - EnhancedOrchestrator - INFO - Starting component: model_registry
+2025-11-12 21:40:34,711 - EnhancedOrchestrator - INFO - [OK] model_registry started successfully (PID: 60376)
+2025-11-12 21:40:34,712 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:40:34,713 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60377)
+2025-11-12 21:40:34,719 - EnhancedOrchestrator - WARNING - Component ai_server health check failed
+2025-11-12 21:40:34,719 - EnhancedOrchestrator - INFO - Auto-restarting ai_server (policy: always)
+2025-11-12 21:40:34,719 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:40:34,720 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:40:36,723 - EnhancedOrchestrator - INFO - Starting component: ai_server
+2025-11-12 21:40:36,728 - EnhancedOrchestrator - INFO - [OK] ai_server started successfully (PID: 60379)
+2025-11-12 21:40:44,830 - EnhancedOrchestrator - INFO - Stopping component: ai_server
+2025-11-12 21:40:44,831 - EnhancedOrchestrator - INFO - [OK] ai_server stopped
+2025-11-12 21:40:44,832 - EnhancedOrchestrator - INFO - Stopping component: model_registry
+2025-11-12 21:40:44,840 - EnhancedOrchestrator - INFO - [OK] model_registry stopped

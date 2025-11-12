@@ -1,0 +1,267 @@
+2025-11-11 00:03:13,764 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,765 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,765 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,765 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:13,766 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:21,667 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:03:21,667 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:03:21,669 - __main__.EnhancedTradeLogger - INFO - Signal logged: SIG_TEST_001 - BUY (75.5% confidence)
+2025-11-11 00:03:21,669 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 00:03:21,670 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 00:03:21,670 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 00:03:21,670 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 00:03:21,670 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 00:03:21,672 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 00:03:21,672 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_000321.json
+2025-11-11 00:03:21,673 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 00:10:15,376 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:10:15,376 - monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 00:10:15,376 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 00:10:15,376 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,241 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:51:38,244 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,107 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,107 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:55:33,109 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,109 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,109 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:55:33,109 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,737 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,738 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,738 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,738 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,738 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,738 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 02:58:18,739 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,545 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,546 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,546 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,546 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,546 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,546 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:39:58,547 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,661 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,662 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:49:54,663 - scripts.monitoring.enhanced_trade_logger.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:56:57,169 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 03:56:57,170 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 03:56:57,171 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 03:56:57,171 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 03:56:57,172 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 03:56:57,172 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 03:56:57,172 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 03:56:57,172 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 03:56:57,173 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 03:56:57,174 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_035657.json
+2025-11-11 03:56:57,175 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:00:08,953 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:00:08,954 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:00:08,954 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:00:08,956 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:00:08,956 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:00:08,956 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:00:08,957 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:00:08,957 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:00:08,958 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:00:08,959 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_040008.json
+2025-11-11 04:00:08,959 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:01:15,568 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:01:15,569 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:01:15,569 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:01:15,570 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:01:15,571 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:01:15,571 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:01:15,571 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:01:15,571 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:01:15,573 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:01:15,573 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_040115.json
+2025-11-11 04:01:15,573 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:04:56,741 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:04:56,742 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:04:56,743 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:04:56,744 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:04:56,744 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:04:56,745 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:04:56,745 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:04:56,745 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:04:56,746 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:04:56,747 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_040456.json
+2025-11-11 04:04:56,747 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:08:23,375 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:08:23,376 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:08:23,376 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:08:23,377 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:08:23,378 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:08:23,378 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:08:23,378 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:08:23,378 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:08:23,380 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:08:23,380 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_040823.json
+2025-11-11 04:08:23,381 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:09:14,366 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:09:14,367 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:09:14,367 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:09:14,367 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:09:14,368 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:09:14,368 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:09:14,368 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:09:14,369 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:09:14,370 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:09:14,370 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_040914.json
+2025-11-11 04:09:14,371 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:13:13,145 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 04:13:13,146 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 04:13:13,146 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 04:13:13,147 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 04:13:13,148 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 04:13:13,148 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 04:13:13,148 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 04:13:13,149 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 04:13:13,150 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 04:13:13,150 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_041313.json
+2025-11-11 04:13:13,151 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:10:07,178 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:10:07,179 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:10:07,179 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 14:10:07,181 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 14:10:07,181 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 14:10:07,181 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 14:10:07,182 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 14:10:07,182 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 14:10:07,183 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:10:07,184 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_141007.json
+2025-11-11 14:10:07,184 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:10:40,084 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:10:40,085 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:10:40,085 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 14:10:40,085 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 14:10:40,086 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 14:10:40,086 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 14:10:40,086 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 14:10:40,086 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 14:10:40,087 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:10:40,088 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_141040.json
+2025-11-11 14:10:40,088 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:13:24,850 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:13:24,850 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:13:24,850 - __main__.EnhancedTradeLogger - ERROR - Error logging signal: UNIQUE constraint failed: signals.signal_id
+2025-11-11 14:13:24,851 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 14:13:24,852 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 14:13:24,852 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 14:13:24,852 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 14:13:24,852 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 14:13:24,853 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:13:24,854 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_141324.json
+2025-11-11 14:13:24,854 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:17:48,343 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:17:48,346 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:17:48,346 - __main__.EnhancedTradeLogger - INFO - Signal logged: SIG_TEST_001 - BUY (75.5% confidence)
+2025-11-11 14:17:48,346 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 14:17:48,347 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 14:17:48,347 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 14:17:48,347 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 14:17:48,348 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 14:17:48,349 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:17:48,349 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_141748.json
+2025-11-11 14:17:48,350 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:21:20,446 - __main__.EnhancedTradeLogger - INFO - Enhanced Trade Logger initialized
+2025-11-11 14:21:20,448 - __main__.EnhancedTradeLogger - INFO - Database tables initialized successfully
+2025-11-11 14:21:20,448 - __main__.EnhancedTradeLogger - INFO - Signal logged: SIG_TEST_001 - BUY (75.5% confidence)
+2025-11-11 14:21:20,449 - __main__.EnhancedTradeLogger - INFO - Execution logged: TRD_001 - OPEN at 2650.5
+2025-11-11 14:21:20,449 - __main__.EnhancedTradeLogger - INFO - Outcome logged: TRD_001 - WIN (100.0 pips)
+2025-11-11 14:21:20,449 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: overall_win_rate = 73.5
+2025-11-11 14:21:20,450 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: max_drawdown_pips = -45.2
+2025-11-11 14:21:20,450 - __main__.EnhancedTradeLogger - INFO - Performance metric logged: profit_factor = 1.85
+2025-11-11 14:21:20,451 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'
+2025-11-11 14:21:20,452 - __main__.EnhancedTradeLogger - INFO - Performance report exported to: scripts/monitoring/performance_report_20251111_142120.json
+2025-11-11 14:21:20,452 - __main__.EnhancedTradeLogger - ERROR - Error getting signal performance: 'losses'

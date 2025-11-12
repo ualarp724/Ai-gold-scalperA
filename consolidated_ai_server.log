@@ -1,0 +1,484 @@
+2025-11-10 23:47:04,675 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-10 23:47:04,675 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-10 23:47:04,676 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-10 23:47:04,676 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-10 23:47:04,676 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-10 23:47:04,676 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-10 23:47:04,680 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-10 23:47:59,009 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-10 23:47:59,009 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-10 23:47:59,009 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-10 23:47:59,009 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-10 23:47:59,009 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-10 23:47:59,010 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-10 23:47:59,011 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-10 23:49:00,614 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-10 23:49:00,614 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-10 23:49:00,614 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-10 23:49:00,614 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-10 23:49:00,614 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-10 23:49:00,614 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-10 23:49:00,616 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-10 23:50:21,268 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-10 23:50:21,268 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-10 23:50:21,268 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-10 23:50:21,268 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-10 23:50:21,268 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-10 23:50:21,268 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-10 23:50:21,270 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-10 23:50:21,271 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:5001
+2025-11-11 00:02:32,180 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 00:02:32,181 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 00:02:32,181 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 00:02:32,181 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 00:02:32,181 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 00:02:32,181 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 00:02:32,185 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 00:02:32,185 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:5001
+2025-11-11 00:03:47,309 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 00:03:47,309 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 00:03:47,309 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 00:03:47,309 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 00:03:47,309 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 00:03:47,309 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 00:03:47,314 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 00:05:10,209 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 00:05:10,209 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 00:05:10,209 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 00:05:10,209 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 00:05:10,210 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 00:05:10,210 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 00:05:10,214 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 00:07:46,022 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 00:07:46,022 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 00:07:46,023 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 00:07:46,023 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 00:07:46,023 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 00:07:46,023 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 00:07:46,027 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 00:07:46,028 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:50:59,078 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:50:59,078 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:50:59,079 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:50:59,079 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:50:59,079 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:50:59,079 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:50:59,083 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:50:59,084 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:51:52,603 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:51:52,603 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:51:52,603 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:51:52,603 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:51:52,603 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:51:52,603 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:51:52,607 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:51:52,608 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:54:53,631 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:54:53,631 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:54:53,632 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:54:53,632 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:54:53,632 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:54:53,632 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:54:53,636 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:54:53,637 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:55:42,253 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:55:42,253 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:55:42,254 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:55:42,255 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:55:42,255 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:55:42,255 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:55:42,259 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:55:42,260 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:56:16,609 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:56:16,609 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:56:16,609 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:56:16,609 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:56:16,609 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:56:16,609 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:56:16,612 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:56:16,618 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:56:50,310 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:56:50,310 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:56:50,311 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:56:50,311 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:56:50,311 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:56:50,311 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:56:50,315 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:56:50,316 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:57:39,163 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:57:39,163 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:57:39,164 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:57:39,164 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:57:39,164 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:57:39,164 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:57:39,168 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:57:39,169 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:58:27,732 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:58:27,732 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:58:27,733 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:58:27,733 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:58:27,733 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:58:27,733 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:58:27,735 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:58:27,736 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:59:01,739 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:59:01,739 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:59:01,739 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:59:01,739 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:59:01,739 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:59:01,739 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:59:01,742 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:59:01,742 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 02:59:35,987 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 02:59:35,987 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 02:59:35,987 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 02:59:35,987 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 02:59:35,987 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 02:59:35,987 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 02:59:35,993 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 02:59:35,993 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 03:00:10,041 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:00:10,041 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:00:10,042 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:00:10,042 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:00:10,042 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:00:10,042 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:00:10,046 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:00:10,051 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 03:00:44,184 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:00:44,184 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:00:44,184 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:00:44,184 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:00:44,184 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:00:44,184 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:00:44,189 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:00:44,190 - waitress - INFO - [log_info:486] - Serving on http://0.0.0.0:8000
+2025-11-11 03:39:25,651 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:39:25,651 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:39:25,651 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:39:25,651 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:39:25,651 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:39:25,651 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:39:25,656 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:39:25,656 - waitress - INFO - [log_info:485] - Serving on http://0.0.0.0:8000
+2025-11-11 03:40:12,766 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:40:12,766 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:40:12,767 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:40:12,767 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:40:12,767 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:40:12,767 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:40:12,771 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:40:12,771 - waitress - INFO - [log_info:485] - Serving on http://0.0.0.0:8000
+2025-11-11 03:40:47,053 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:40:47,053 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:40:47,053 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:40:47,053 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:40:47,053 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:40:47,053 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:40:47,057 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:40:47,058 - waitress - INFO - [log_info:485] - Serving on http://0.0.0.0:8000
+2025-11-11 03:41:21,010 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:41:21,010 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:41:21,010 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:41:21,010 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:41:21,010 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:41:21,010 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:41:21,014 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:41:21,015 - waitress - INFO - [log_info:485] - Serving on http://0.0.0.0:8000
+2025-11-11 03:49:15,062 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:49:15,062 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:49:15,062 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:49:15,062 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:49:15,062 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:49:15,062 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:49:15,067 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:49:15,068 - waitress - INFO - [log_info:485] - Serving on http://0.0.0.0:8000
+2025-11-11 03:51:41,574 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:51:41,575 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:51:41,575 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:51:41,575 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:51:41,575 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:51:41,575 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:51:41,580 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:52:25,190 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:52:25,190 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:52:25,190 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:52:25,191 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:52:25,191 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:52:25,191 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:52:25,193 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:52:59,202 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:52:59,202 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:52:59,202 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:52:59,202 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:52:59,202 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:52:59,202 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:52:59,204 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:54:33,295 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:54:33,295 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:54:33,296 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:54:33,296 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:54:33,296 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:54:33,296 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:54:33,301 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:56:57,743 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:56:57,743 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:56:57,744 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:56:57,744 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:56:57,744 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:56:57,744 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:56:57,748 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:57:07,756 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:57:07,756 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:57:07,756 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:57:07,756 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:57:07,756 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:57:07,756 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:57:07,759 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:57:41,849 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:57:41,849 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:57:41,850 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:57:41,850 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:57:41,850 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:57:41,850 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:57:41,854 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:58:15,996 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:58:15,996 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:58:15,996 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:58:15,996 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:58:15,996 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:58:15,996 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:58:16,000 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:58:49,875 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:58:49,875 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:58:49,876 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:58:49,876 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:58:49,876 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:58:49,876 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:58:49,878 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 03:59:24,035 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 03:59:24,036 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 03:59:24,036 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 03:59:24,036 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 03:59:24,036 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 03:59:24,036 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 03:59:24,040 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:00:09,534 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:00:09,534 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:00:09,535 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:00:09,535 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:00:09,535 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:00:09,535 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:00:09,537 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:00:19,630 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:00:19,630 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:00:19,630 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:00:19,630 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:00:19,630 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:00:19,630 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:00:19,632 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:01:16,315 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:01:16,315 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:01:16,315 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:01:16,316 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:01:16,316 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:01:16,316 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:01:16,319 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:04:57,496 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:04:57,496 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:04:57,496 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:04:57,496 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:04:57,496 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:04:57,496 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:04:57,500 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:08:24,131 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:08:24,131 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:08:24,132 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:08:24,132 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:08:24,132 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:08:24,132 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:08:24,136 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:09:15,132 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:09:15,132 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:09:15,132 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:09:15,132 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:09:15,132 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:09:15,132 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:09:15,136 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 04:13:13,903 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 04:13:13,903 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 04:13:13,903 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 04:13:13,903 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 04:13:13,903 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 04:13:13,903 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 04:13:13,907 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:10:08,030 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:10:08,031 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:10:08,031 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:10:08,031 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:10:08,031 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:10:08,031 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:10:08,036 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:10:40,871 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:10:40,871 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:10:40,872 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:10:40,872 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:10:40,872 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:10:40,872 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:10:40,876 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:17:49,184 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:17:49,184 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:17:49,184 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:17:49,185 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:17:49,185 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:17:49,185 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:17:49,189 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:21:21,231 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:21:21,231 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:21:21,231 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:21:21,231 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:21:21,231 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:21:21,231 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:21:21,236 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:23:48,575 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:23:48,575 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:23:48,576 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:23:48,576 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:23:48,576 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:23:48,576 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:23:48,580 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:29:25,048 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:29:25,048 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:29:25,049 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:29:25,049 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:29:25,049 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:29:25,049 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:29:25,053 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 14:30:10,653 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 14:30:10,653 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 14:30:10,653 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 14:30:10,653 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 14:30:10,653 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 14:30:10,653 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 14:30:10,655 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:17:58,568 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:17:58,568 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:17:58,568 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:17:58,569 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:17:58,569 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:17:58,569 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:17:58,575 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:18:42,289 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:18:42,289 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:18:42,289 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:18:42,289 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:18:42,289 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:18:42,289 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:18:42,291 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:19:16,414 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:19:16,414 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:19:16,414 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:19:16,414 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:19:16,414 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:19:16,414 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:19:16,417 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:19:50,349 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:19:50,349 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:19:50,350 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:19:50,350 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:19:50,350 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:19:50,350 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:19:50,352 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:47:57,543 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:47:57,543 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:47:57,543 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:47:57,544 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:47:57,544 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:47:57,544 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:47:57,549 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:48:17,661 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:48:17,661 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:48:17,661 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:48:17,661 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:48:17,661 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:48:17,661 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:48:17,663 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:48:27,657 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:48:27,657 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:48:27,658 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:48:27,658 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:48:27,658 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:48:27,658 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:48:27,660 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:51:40,249 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:51:40,249 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:51:40,250 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:51:40,250 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:51:40,250 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:51:40,250 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:51:40,255 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-11 15:52:13,941 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-11 15:52:13,941 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-11 15:52:13,942 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-11 15:52:13,942 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-11 15:52:13,942 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-11 15:52:13,942 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-11 15:52:13,944 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:36:49,173 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:36:49,174 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:36:49,174 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:36:49,174 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:36:49,174 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:36:49,174 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:36:49,179 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:38:31,338 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:38:31,338 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:38:31,339 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:38:31,339 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:38:31,339 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:38:31,339 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:38:31,344 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:39:00,195 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:39:00,195 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:39:00,195 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:39:00,195 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:39:00,195 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:39:00,196 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:39:00,198 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:39:10,223 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:39:10,223 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:39:10,223 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:39:10,223 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:39:10,223 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:39:10,223 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:39:10,225 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:39:44,275 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:39:44,275 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:39:44,275 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:39:44,275 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:39:44,275 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:39:44,275 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:39:44,277 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 20:41:57,099 - __main__ - WARNING - [load_config:674] - No config file found, using defaults
+2025-11-12 20:41:57,099 - __main__ - INFO - [initialize_models:723] - Model initialization complete
+2025-11-12 20:41:57,100 - __main__ - INFO - [<module>:1083] - Starting Consolidated AI Server v5.0.0
+2025-11-12 20:41:57,100 - __main__ - INFO - [<module>:1084] - Models loaded: []
+2025-11-12 20:41:57,100 - __main__ - INFO - [<module>:1085] - GPT-4 enabled: False
+2025-11-12 20:41:57,100 - __main__ - INFO - [<module>:1086] - Dev tunnel enabled: False
+2025-11-12 20:41:57,104 - __main__ - INFO - [<module>:1091] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 21:40:37,717 - __main__ - INFO - [load_config:685] - Config loaded from: config.json
+2025-11-12 21:40:37,717 - __main__ - ERROR - [load_config:723] - Error loading config: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-12 21:40:37,717 - __main__ - INFO - [initialize_models:749] - Model initialization complete
+2025-11-12 21:40:37,717 - __main__ - INFO - [<module>:1134] - Starting Consolidated AI Server v5.0.0
+2025-11-12 21:40:37,717 - __main__ - INFO - [<module>:1135] - Models loaded: []
+2025-11-12 21:40:37,717 - __main__ - INFO - [<module>:1136] - GPT-4 enabled: False
+2025-11-12 21:40:37,717 - __main__ - INFO - [<module>:1137] - Dev tunnel enabled: False
+2025-11-12 21:40:37,722 - __main__ - INFO - [<module>:1142] - Starting with Waitress WSGI server (Production Mode)
+2025-11-12 21:41:10,965 - __main__ - INFO - [load_config:685] - Config loaded from: config.json
+2025-11-12 21:41:10,966 - __main__ - ERROR - [load_config:723] - Error loading config: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-12 21:41:10,966 - __main__ - INFO - [initialize_models:749] - Model initialization complete
+2025-11-12 21:41:10,966 - __main__ - INFO - [<module>:1134] - Starting Consolidated AI Server v5.0.0
+2025-11-12 21:41:10,966 - __main__ - INFO - [<module>:1135] - Models loaded: []
+2025-11-12 21:41:10,966 - __main__ - INFO - [<module>:1136] - GPT-4 enabled: False
+2025-11-12 21:41:10,966 - __main__ - INFO - [<module>:1137] - Dev tunnel enabled: False
+2025-11-12 21:41:10,968 - __main__ - INFO - [<module>:1142] - Starting with Waitress WSGI server (Production Mode)

@@ -1,0 +1,66 @@
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 00:03:13,766 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 00:10:15,376 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 00:10:15,376 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:51:38,243 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:51:38,243 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:51:38,244 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:51:38,244 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:51:38,244 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:55:33,108 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:55:33,108 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:55:33,109 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:55:33,109 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:55:33,109 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:55:33,109 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:58:18,738 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:58:18,739 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 02:58:18,739 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 02:58:18,739 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:39:58,546 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:39:58,547 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:39:58,547 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:39:58,547 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:49:54,662 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:49:54,662 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:49:54,663 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 03:49:54,663 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 03:49:54,663 - scripts.monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:32:02,536 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:32:02,536 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:36:43,058 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:36:43,058 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:38:37,266 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:38:37,266 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:39:46,355 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:39:46,355 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:41:45,984 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:41:45,984 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:45:12,012 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:45:12,012 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:47:21,572 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:47:21,572 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 14:49:17,075 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 14:49:17,075 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:24:14,164 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:24:14,165 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:30:40,336 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:30:40,336 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:35:13,082 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:35:13,083 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:36:58,642 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:36:58,642 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:41:14,223 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:41:14,223 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
+2025-11-11 15:46:06,541 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - INFO - Trade Postmortem Analyzer initialized
+2025-11-11 15:46:06,541 - monitoring.trade_postmortem_analyzer.TradePostmortemAnalyzer - WARNING - OpenAI API not configured - postmortem will use rule-based analysis
